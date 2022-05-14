@@ -1,0 +1,17 @@
+/* Definition des polices personnalisées */
+
+font-face
+{
+    font-family: sans-serif,Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}
+ 
+/* Element principaux de la page */
+
+body
+{
+background: url('/Users/romane/Desktop/Informatique/Entrainement oppenclassroom/TP création d'un blog de voyage/tp_images_polices/images/fond_jaune.png');
+
+
+}
