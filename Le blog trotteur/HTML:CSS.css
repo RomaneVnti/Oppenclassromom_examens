@@ -1,0 +1,22 @@
+ul
+{
+  list-style-type: none;
+}
+  #topsection,menu
+{
+    display: flex;
+    justify-content: center;
+  }
+p
+{
+  display:flex;
+  flex-direction:colomn;
+  width:80%;
+  margin: auto;
+  text-align: justify;  
+  
+}
+h1
+{
+  text-align:center;
+}
